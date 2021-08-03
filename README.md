@@ -18,4 +18,7 @@ Creacion sitio web de Rick y Morty, donde se hace una conexión xmlHttpRequest a
     <li>Bootstrap</li>
     <li>JavaScript</li>
 </ol>
+    
+# Deploy
+<a href="https://rick-y-morty-gonzalo.vercel.app/">Vercel</a>
 
