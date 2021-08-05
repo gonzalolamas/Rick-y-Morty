@@ -1,6 +1,6 @@
-# Rick-and-Morty-Api 👨‍🔬🧪
+# Rick y Morty API 👨‍🔬🧪
 
-Creacion sitio web de Rick y Morty, donde se hace una conexión xmlHttpRequest a la API. Features en <a href="https://gitlab.com/gonzalolamas/rick-and-morty-api">GitLab</a>.
+Creación de sitio web de Rick y Morty, donde se hace una conexión xmlHttpRequest a la API. Features en <a href="https://gitlab.com/gonzalolamas/rick-and-morty-api">GitLab</a>.
 
 # Screenshots
 
@@ -12,12 +12,12 @@ Creacion sitio web de Rick y Morty, donde se hace una conexión xmlHttpRequest a
 
 # Tecnologías
 
-<ol>
+<ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>Bootstrap</li>
     <li>JavaScript</li>
-</ol>
+</ul>
     
 # Deploy
 <a href="https://rick-y-morty-gonzalo.vercel.app/">Vercel</a>
